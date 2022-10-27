@@ -1,13 +1,10 @@
 {
-  "name": "ทีเด็ดล้มโต๊ะ สมัครยังไง - เว็บใหม่ 123play 2023 ล่าสุด",
+  "name": "vnmUQffv8zWJp7WQ2Te57dcLEkOe6u3husDv0wAGW9dtQlfjHD",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "ทีเด็ดล้มโต๊ะ หากใครที่สนใจ อย่างไรก็ตาม ทีเด็ดล้มโต๊ะ ที่ 123Play เว็บพนัน มีเกมพนันทุกชนิด Scb99 สมัครง่าย รวมบริการไว้ให้ครบ ที่จะทำให้ท่านได้เพลิดเพลิน",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": [
-    "ทีเด็ดล้มโต๊ะ",
-    "ทีเด็ดล้มโต๊ะ 123Play"
-  ],
+  "keywords": ["ทีเด็ดล้มโต๊ะ","ทีเด็ดล้มโต๊ะ 123Play"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
