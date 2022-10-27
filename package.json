@@ -1,0 +1,12 @@
+{
+  "name": "2ioObVmbZYWrBtSZK4qUB4HDylzm8np79b7kDUx7epKAjPkfnG",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "กบไชโย อาหาร เดี๋ยวนี้ปฏิเสธไม่ได้เลย ว่า กบไชโย อาหาร Lotto หวยออนไลน์ อันดับหนึ่ง ว่ามีสำนักที่ให้แนวทางหวย เกิดขึ้นมากมาย แข่งขันกันให้หวย ประชันความแม่",
+  "repository": "https://github.com/gullibles-02/outdoor-11",
+  "keywords": ["กบไชโย อาหาร","กบไชโย","อาหาร","กบไชโย Lotto","อาหาร Lotto"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
