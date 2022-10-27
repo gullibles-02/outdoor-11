@@ -1,10 +1,20 @@
 {
-  "name": "9tkU5P5Xi1TkIBwz18Tlao9i7kJWreCIk8nRWXZapw6S8V7QY6",
+  "name": "lottovip จ่ายเงิน ยัง ไง ที่ไหน - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.22",
   "description": "Lottovip จ่ายเงิน ยัง ไง ในรูปแบบของการ แม้ว่า Lottovip จ่ายเงิน ยัง ไง ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง ซื้อหวยออนไลน์ ในรูปแบบต่างๆ วิธีฝาก-ถอนเงินเป็",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": ["LOTTOVIP จ่ายเงิน ยัง ไง","LOTTOVIP","จ่ายเงิน","ยัง","ไง","LOTTOVIP Ruay","จ่ายเงิน Ruay","ยัง Ruay","ไง Ruay"],
+  "keywords": [
+    "LOTTOVIP จ่ายเงิน ยัง ไง",
+    "LOTTOVIP",
+    "จ่ายเงิน",
+    "ยัง",
+    "ไง",
+    "LOTTOVIP Ruay",
+    "จ่ายเงิน Ruay",
+    "ยัง Ruay",
+    "ไง Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
