@@ -1,10 +1,13 @@
 {
-  "name": "4TPz9sNHUPkZv5z7Lo72lu7AYXw0PfgELCWBuVUrVydVUVOhal",
+  "name": "ผลหุ้นรัสเซียvipวันนี้ ได้อย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "ผลหุ้นรัสเซียvipวันนี้ หวยคนมีโชค ต่อ ผลหุ้นรัสเซียvipวันนี้ Huay หวย หวยออนไลน์ มีหวยทุกชนิด ผลหุ้นรัสเซียvipวันนี้ 1662 งวดที่แล้วเข้า 2 ตัวโต๊ด 17 ชุดเล",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": ["ผลหุ้นรัสเซียVIPวันนี้","ผลหุ้นรัสเซียVIPวันนี้ Huay"],
+  "keywords": [
+    "ผลหุ้นรัสเซียVIPวันนี้",
+    "ผลหุ้นรัสเซียVIPวันนี้ Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
