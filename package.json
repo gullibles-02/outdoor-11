@@ -1,24 +1,10 @@
 {
-  "name": "รางวัลที่ 1 มี กี่ ใบ 2565 สรุปว่าอะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "iT6g06umslDke4l3U4fXvqVSMBQ9Atq9V2gWEdnmvl63Gf0ITX",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "รางวัลที่ 1 มี กี่ ใบ 2565 ในการออกผลหวยหุ้น ตาม รางวัลที่ 1 มี กี่ ใบ 2565 Huay Happy หวยออนไลน์ อันดับหนึ่ง จะนำเลขหลักหน่วยและจุดทศนิยมของ ค่า Value มาอ",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": [
-    "รางวัลที่ 1 มี กี่ ใบ 2565",
-    "รางวัลที่",
-    "1",
-    "มี",
-    "กี่",
-    "ใบ",
-    "2565",
-    "รางวัลที่ Huay Happy",
-    "1 Huay Happy",
-    "มี Huay Happy",
-    "กี่ Huay Happy",
-    "ใบ Huay Happy",
-    "2565 Huay Happy"
-  ],
+  "keywords": ["รางวัลที่ 1 มี กี่ ใบ 2565","รางวัลที่","1","มี","กี่","ใบ","2565","รางวัลที่ Huay Happy","1 Huay Happy","มี Huay Happy","กี่ Huay Happy","ใบ Huay Happy","2565 Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
