@@ -1,10 +1,13 @@
 {
-  "name": "BWzt5s5aimGTqhMW5QHra7LwxgmunXZHnkXSkrLw42WYZjhMmI",
+  "name": "หวยหุ้นเด็ดวันนี้ เล่นยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.30",
   "description": "หวยหุ้นเด็ดวันนี้ ผลการออกรางวัล แต่ว่า หวยหุ้นเด็ดวันนี้ 999Lucky หวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย V",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": ["หวยหุ้นเด็ดวันนี้","หวยหุ้นเด็ดวันนี้ 999Lucky"],
+  "keywords": [
+    "หวยหุ้นเด็ดวันนี้",
+    "หวยหุ้นเด็ดวันนี้ 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
