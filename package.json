@@ -1,10 +1,16 @@
 {
-  "name": "w1NTlyPxS244eSI7vAlmKMMv7URMKfdiw6czz1fEy3whNBwhvG",
+  "name": "หวยยี่กีคืออะไร pantip สมัครยังไง - เว็บใหม่ uwin789 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.34",
   "description": "หวยยี่กีคืออะไร pantip เลขเด็ด อย่างไรก็ตาม หวยยี่กีคืออะไร pantip ที่ Uwin789 เว็บหวยออนไลน์ อันดับหนึ่ง ที่ทางเว็บไซต์หวยไทยจะนำเสนอในงวดประจำวันที่ 16 ก",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": ["หวยยี่กีคืออะไร PANTIP","หวยยี่กีคืออะไร","PANTIP","หวยยี่กีคืออะไร Uwin789","PANTIP Uwin789"],
+  "keywords": [
+    "หวยยี่กีคืออะไร PANTIP",
+    "หวยยี่กีคืออะไร",
+    "PANTIP",
+    "หวยยี่กีคืออะไร Uwin789",
+    "PANTIP Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
