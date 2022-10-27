@@ -1,10 +1,13 @@
 {
-  "name": "4plx7kk4JBtjK9oW840xgA7wAaUFWPSGqd45bxBACo63pI8mUy",
+  "name": "หุ้นไทยเย็นช่อง9 สรุปว่าอะไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.24",
   "description": "หุ้นไทยเย็นช่อง9 หวยไทยรัฐ ถ้า หุ้นไทยเย็นช่อง9 Jetsadabet หวยออนไลน์ อันดับหนึ่ง ชุดตารางเลขเด่นผลงานดีที่คอหวยติดตามกันมาทุกงวด เช่นเดียวกันกับหวยปฏิทินห",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": ["หุ้นไทยเย็นช่อง9","หุ้นไทยเย็นช่อง9 Jetsadabet"],
+  "keywords": [
+    "หุ้นไทยเย็นช่อง9",
+    "หุ้นไทยเย็นช่อง9 Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
