@@ -1,13 +1,10 @@
 {
-  "name": "สถิติหวยย้อนหลัง1ปี แตกต่างกันอย่างไร - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "vfAyAanvssbWc34zbPUUnRaJ2v7XNEONxATXMVZuw2fETw9des",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "สถิติหวยย้อนหลัง1ปี Mughuay และ สถิติหวยย้อนหลัง1ปี Choke โชค หวยออนไลน์ มีหวยทุกชนิด เป็นเว็บบริการซื้อหวยออนไลน์ชั้นนำอันดับ 1 ของเมืองไทย ที่ให้อัตราการ",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": [
-    "สถิติหวยย้อนหลัง1ปี",
-    "สถิติหวยย้อนหลัง1ปี Choke"
-  ],
+  "keywords": ["สถิติหวยย้อนหลัง1ปี","สถิติหวยย้อนหลัง1ปี Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
