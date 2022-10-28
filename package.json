@@ -1,13 +1,10 @@
 {
-  "name": "แนวทางหุ้นจีนวันนี้ มีคำตอบ - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "6NnQjx9B7V70KhAqgMJME4VZ0quCYskbM4sTshoCLLbbH5UrRH",
   "theme": "syntax",
   "version": "1.0.72",
   "description": "แนวทางหุ้นจีนวันนี้ เด่น หาก แนวทางหุ้นจีนวันนี้ Choke หวยออนไลน์ อันดับหนึ่ง แนวทางหุ้นจีนวันนี้ 3-8 จับเข้าชุดเลขท้าย 2 ตัวได้ดังนี้30-8031-8132-8234-843",
   "repository": "https://github.com/gullibles-02/outdoor-11",
-  "keywords": [
-    "แนวทางหุ้นจีนวันนี้",
-    "แนวทางหุ้นจีนวันนี้ Choke"
-  ],
+  "keywords": ["แนวทางหุ้นจีนวันนี้","แนวทางหุ้นจีนวันนี้ Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
